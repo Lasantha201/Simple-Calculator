@@ -1,4 +1,3 @@
-![Screenshot 2025-03-24 231744](https://github.com/user-attachments/assets/329159b0-58c0-46e1-bd65-9c35cc1fbc3f)
 # Simple-Calculator
 This is a simple calculator program written in Java. It allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, division, and modulus.
 
@@ -27,11 +26,13 @@ This is a simple calculator program written in Java. It allows users to perform 
 
 ---Example Usage---
 
-    Example usages Screenshot attached.
+    ![Screenshot 2025-03-24 231744](https://github.com/user-attachments/assets/329159b0-58c0-46e1-bd65-9c35cc1fbc3f)
 
 ---Author---
 
     Lasantha Wijewardhana
+
+    
 
 
 
